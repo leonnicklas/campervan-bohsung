@@ -34,7 +34,7 @@ Trifft hier nichts weiter zu, ist der Camper vonseiten der Bordelektrik bereit f
 Folgendes wird über die 12V-Versorgung gespeist:
 
 - **Licht** *(LED-Beleuchtung unter der Decke links & rechts, über der Küchenzeile, im Einstiegsbereich, sowie beide Leselampen über dem Bett)*
-- **[12V-Dosen](#5v-usb--12v-dosen)** *(2x 10A)*
+- **[12V-Dosen](#5v-usb--12v-dosen)** *(2x - 10A max. insgesamt)*
 - **[5V USB](#5v-usb--12v-dosen)** *(2x 1A & 2x 2.1A)*
 
 ### Nutzung
@@ -44,7 +44,7 @@ Um jegliche 12V-Verbraucher nutzen zu können, muss nichts weiter unternommen we
 > ***WICHTIG:***  
 *Achte stetig darauf, dass der [Ladezustand](#ladezustand-) der [Versorgungsbatterie](#versorgungsbatterie) nicht unter **50%** fällt.  
 Ist dies dennoch der Fall, siehe zu, dass du möglichst bald wieder laden kannst. Infos dazu findest du im Abschnitt [Bordnetz (12V) -> Versorgungsbatterie laden](#versorgungsbatterie-laden).  
-Falls er jedoch unter die Marke von **30%** (oder **10,5V** [Batterie-Spannung](#spannung-versorgungsbatterie-v)) fällt, so greift der [Tiefenentladeschutz](#tiefenentladeschutz) und schaltet die 12V-Bordelektrik automatisch komplett ab, um einen **größeren Schaden** zu verhindern.*
+Falls er jedoch unter die Marke von **30%** (oder **10,5V** [Batterie-Spannung](#spannung-versorgungsbatterie-v)) fällt, so greift der [Tiefenentladeschutz](#tiefenentladeschutz) und schaltet die 12V-Bordelektrik automatisch ab, um einen **Schaden** zu verhindern.*
 
 ### Überwachung
 
@@ -55,53 +55,53 @@ Mit den beiden **Pfeiltasten** *(links & mittig)* kannst du zwischen den einzeln
 
 Hier kannst du sehen, ob die **12V-Bordelektrik** aktuell **eingeschaltet (ON)** oder **abgeschaltet (OFF)** ist.
 
-![Prozent](images/Status_Ausschnitt.jpeg)
+![Status](images/Status_Ausschnitt.jpeg)
 
 #### Balken-Anzeige
 
 Hier kannst du immer den aktuellen **Ladezustand** der [Versorgungsbatterie](#versorgungsbatterie) grob als Balken-Anzeige in **10% Schritten** sehen.
 
-![Prozent](images/Balken_Anzeige_Ausschnitt.jpeg)
+![Balken-Anzeige](images/Balken_Anzeige_Ausschnitt.jpeg)
 
 #### Ladezustand (%)
 
 Hier kannst du den aktuellen **Ladezustand** der [Versorgungsbatterie](#versorgungsbatterie) in **Prozent (%)** einsehen.
 
-![Prozent](images/Prozent_Ausschnitt.jpeg)
+![Ladezustand-Prozent](images/Prozent_Ausschnitt.jpeg)
 
 #### Ladezustand (Ah)
 
 Hier kannst du den aktuellen **Ladezustand** der [Versorgungsbatterie](#versorgungsbatterie) in **Amperestunden (Ah)** einsehen.
 
-![Prozent](images/AH_Ausschnitt.jpeg)
+![Ladezustand-Ah](images/AH_Ausschnitt.jpeg)
 
 #### Strom (A)
 
 Hier kannst du den aktuellen **Stromfluss** von und zur [Versorgungsbatterie](#versorgungsbatterie) in **Ampere (A)** einsehen.
 
-![Prozent](images/Strom_Ausschnitt.jpeg)
+![Strom](images/Strom_Ausschnitt.jpeg)
 
 > ***INFO:***  
 *Ist der Wert negativ (-), so wird der [Versorgungsbatterie](#versorgungsbatterie) aktuell Strom entnommen.  
-Steht kein Vorzeichen vor der Zahl, so wird diese aktuell geladen (Erkennbar durch den Schriftzug "Charge" oben rechts im Display).*
+Steht kein Vorzeichen vor dem Wert, so wird diese aktuell geladen (Erkennbar durch den Schriftzug "Charge" oben rechts im Display).*
 
 #### Spannung Versorgungsbatterie (V)
 
 Hier kannst du die aktuelle **Spannung** der **[Versorgungsbatterie (Board)](#versorgungsbatterie)** in **Volt (V)** einsehen.
 
-![Prozent](images/Board_Ausschnitt.jpeg)
+![Spannung-Board](images/Board_Ausschnitt.jpeg)
 
 #### Spannung Starterbatterie (V)
 
 Hier kannst du die aktuelle **Spannung** der **Fahrzeugbatterie (Start)** in **Volt (V)** einsehen.
 
-![Prozent](images/Start_Ausschnitt.jpeg)
+![Spannung-Start](images/Start_Ausschnitt.jpeg)
 
 #### Verbleibende Zeit (h)
 
 Hier kannst du die **verbleibende Zeit** abhängig vom aktuellen [Stromverbrauch](#strom-a) im Camper und dem aktuellen [Ladezustand](#ladezustand-) der [Versorgungsbatterie](#versorgungsbatterie) in **Stunden (h)** einsehen.
 
-![Prozent](images/Stunden_Ausschnitt.jpeg)
+![Stunden](images/Stunden_Ausschnitt.jpeg)
 
 ### Versorgungsbatterie laden
 
@@ -116,7 +116,7 @@ Um die [Versorgungsbatterie](#versorgungsbatterie) während der Fahrt zu laden, 
 
 3. **Landstrom**:  
 Um die [Versorgungsbatterie](#versorgungsbatterie) auch dann laden zu können, wenn der Camper mal nicht genug Solarstrom zur Verfügung hat und auch nicht alle paar Tage für eine Weile gefahren wird, so kann man das Fahrzeug einfach über die [CEE-Dose](#cee-dose) direkt mit dem **Landstrom verbinden** und somit den Ladevorgang starten.  
-Zusätzlich dazu sollte nun ebenfalls Strom an der [230V-Steckdose](#230v-steckdose) im Camper-Innenraum anliegen. Ist dies nicht der Fall, kontrolliere den [FI-Leitungsschutzschalter](#fi-leitungsschutzschalter-landstrom) und stelle sicher, dass dieser **eingeschaltet (ON/Rot)** ist.
+Zusätzlich dazu sollte nun ebenfalls Strom an der [230V-Steckdose](#230v-steckdose) im Camper-Innenraum anliegen. Ist dies beides nicht der Fall, kontrolliere den [FI-Leitungsschutzschalter](#fi-leitungsschutzschalter-landstrom) und stelle sicher, dass dieser **eingeschaltet (ON/Rot)** ist.
 
 ### Tiefenentladeschutz
 
@@ -133,7 +133,7 @@ Erkennbar ist die abgeschaltete 12V-Bordelektrik daran, dass im Display des [Bat
 Falls einmal eine Sicherung durchbrennt, so lässt sich diese ganz einfach in einem der beiden [12V-Sicherungskästen](#12v-sicherungskästen) **unter** der *(in Fahrtrichtung)* **linken Sitzgelegenheits-Abdeckung** austauschen.
 
 > ***INFO:***  
-*Sollte weiterhin Strom am restlichen System anliegen, so ist eine **defekte Sicherung** durch eine rot **leuchtende LED** erkennbar.*
+*Sollte weiterhin Strom am 12V-Bordnetz anliegen, so ist eine **defekte Sicherung** durch eine rot **leuchtende LED** erkennbar.*
 
 ### Manuell abschalten
 
@@ -156,7 +156,7 @@ Folgendes wird über die 230V-Versorgung gespeist:
 ### Nutzung
 
 > ***ACHTUNG LEBENSGEFAHR:***  
-*Schließe **NIEMALS mehr als EIN Gerät** an deine im Camper verbaute [230V-Steckdose](#230v-steckdose) an!*
+*Schließe **NIEMALS mehr als EIN Gerät** an deine im Camper verbaute [230V-Steckdose](#230v-steckdose) an! Auch nicht per Mehrfachsteckdose!*
 
 Um die [230V-Steckdose](#230v-steckdose) nutzen zu können, gibt es zwei verschiedene Möglichkeiten:
 
@@ -169,12 +169,12 @@ Schalte hierfür am [230V-Kontrollpanel](#230v-kontrollpanel) den [Wechselrichte
     1. **UPS (I)** - Landstrom-Vorrangschaltung ***(Empfohlen)***:  
     Bei dieser Option handelt es sich um eine **Unterbrechungsfreie Stromversorgung**. Solange der Landstrom angeschlossen ist, wird dieser vorrangig genutzt und nur falls dieser ausfällt *(oder gar nicht erst angeschlossen ist)*, wird automatisch ohne Umschaltzeit auf Solar/Batterie-Strom umgeschaltet.
 
-        Das bedeutet also, dass die [Versorgungsbatterie](#versorgungsbatterie) lediglich dann genutzt wird, wenn KEIN Landstrom zur Verfügung steht.
+        Das bedeutet, dass die [Versorgungsbatterie](#versorgungsbatterie) lediglich dann genutzt wird, wenn KEIN Landstrom zur Verfügung steht.
 
     2. **ECO (II)** - Solar/Batterie-Vorrangschaltung:  
     Bei dieser Option läuft der **[Wechselrichter](#wechselrichter)** standartmäßig über Solar/Batterie-Strom und erst wenn dieser nicht mehr ausreichend verfügbar ist *([Versorgungsbatterie](#versorgungsbatterie) leer)*, wird automatisch ohne Umschaltzeit auf Landstrom *(sofern vorhanden)* umgeschaltet.
 
-        Das bedeutet also, dass der Landstrom lediglich dann genutzt wird, wenn KEIN Solar/Batterie-Strom zur Verfügung steht.
+        Das bedeutet, dass der Landstrom lediglich dann genutzt wird, wenn KEIN Solar/Batterie-Strom zur Verfügung steht.
 
     > ***WICHTIG:***  
     *Benötigst du nicht länger Strom über die [230V-Sterckdose](#230v-steckdose), so kannst du den [Wechselrichter](#wechselrichter) am [230V-Kontrollpanel](#230v-kontrollpanel) wieder ausschalten (OFF)*.
@@ -188,7 +188,7 @@ Sollte doch einmal der [FI-Leitungsschutzschalter](#fi-leitungsschutzschalter-la
 
 ## Winterschlaf
 
-Um den Camper samt seiner kompletten Bordelektrik *(inkl. [Versorgungsbatterie](#versorgungsbatterie))* gut durch den Winter zu bekommen, empfiehlt es sich, diesen in einem möglichst **kältegeschützten Bereich** unterzustellen.
+Um den Camper samt seiner kompletten Bordelektrik *(inkl. [Versorgungsbatterie](#versorgungsbatterie))* gut durch den Winter zu bringen, empfiehlt es sich, diesen in einem möglichst **kältegeschützten Bereich** unterzustellen.
 
 ### Einschläfern
 
@@ -196,48 +196,47 @@ Bevor du die komplette Bordelektrik für den Winterschlaf zur Ruhe bringst, soll
 
 Um die Elektrik nun bestens auf die lange Pause vorzubereiten, befolge folgende Schritte:
 
-1. [Ladebooster-Trennschalter](#ladebooster-trennschalter) **ausschalten (OFF)**.
+1. [Solar-Trennschalter](#solar-trennschalter) **ausschalten (OFF)**.
 
-2. [Solar-Trennschalter](#solar-trennschalter) **ausschalten (OFF)**.
-
-3. [Batterie-Hauptschalter](#batterie-hauptschalter) **ausschalten (OFF)**.
+2. [Haupt-Trennschalter](#haupt-trennschalter) **ausschalten (OFF)**.
 
 ### Überwintern
 
 Die [Versorgungsbatterie](#versorgungsbatterie) muss nun einmal **alle 4-6 Wochen geladen werden**. Hierfür gibt es zwei verschiedene Möglichkeiten:
 
 1. **Batterie-Ladegerät**:  
-Die [Versorgungsbatterie](#versorgungsbatterie) direkt an ihren beiden Polen an ein geeignetes Batterie-Ladegerät für **AGM Batterien** anschließen und abwarten bis diese **vollständig geladen** wurde. Dies kann je nach [Ladezustand](#ladezustand-) und Ladegerät einige Stunden bis hin zu 2 Tagen dauern.
+Die [Versorgungsbatterie](#versorgungsbatterie) direkt an ihren beiden Polen an ein geeignetes Batterie-Ladegerät (für **AGM Batterien**) anschließen und abwarten bis diese **vollständig geladen** wurde. Dies kann je nach [Ladezustand](#ladezustand-) und Ladegerät einige Stunden bis hin zu 2 Tagen dauern.
 
 2. **Landstrom**:  
-Den [Batterie-Hauptschalter](#batterie-hauptschalter) **einschalten (ON)** und das Fahrzeug über die [CEE-Dose](#cee-dose) direkt mit dem **Landstrom verbinden** und mindestens **12-24h** angesteckt lassen.  
-Nach erfolgtem Ladevorgang den **Landstrom vom Fahrzeug trennen** und den [Batterie-Hauptschalter](#batterie-hauptschalter) wieder **ausschalten (OFF)**.
+Den [Haupt-Trennschalter](#haupt-trennschalter) **einschalten (ON)** und das Fahrzeug über die [CEE-Dose](#cee-dose) direkt mit dem **Landstrom verbinden** und mindestens **12-24h** angesteckt lassen.  
+Nach erfolgtem Ladevorgang den **Landstrom vom Fahrzeug trennen** und den [Haupt-Trennschalter](#haupt-trennschalter) wieder **ausschalten (OFF)**.
+
+    > ***INFO:***  
+    *Wichtig hierbei ist, dass der [FI-Leitungsschutzschalter](#fi-leitungsschutzschalter-landstrom) **eingeschaltet (ON/Rot) ist**.*
 
 ### Aufwecken
 
-1. [Batterie-Hauptschalter](#batterie-hauptschalter) **einschalten (ON)**.
+1. [Haupt-Trennschalter](#haupt-trennschalter) **einschalten (ON)**.
 
 2. [Solar-Trennschalter](#solar-trennschalter) **einschalten (ON)**.
 
-3. [Ladebooster-Trennschalter](#ladebooster-trennschalter) **einschalten (ON)**.
-
-4. Die [Versorgungsbatterie](#versorgungsbatterie) einmal auf **100%** voll laden.
+3. Die [Versorgungsbatterie](#versorgungsbatterie) einmal auf **100%** voll laden.
 
     > ***WICHTIG:***  
     *Hierbei darf sich **NICHT** auf die [Ladezustands-Anzeige](#ladezustand-) vom [Batterie-Computer](#batterie-computer) verlassen werden, da dieser (nachdem er vom Strom getrennt war) immer wieder bei 100% startet!*
 
-    Um die [Versorgungsbatterie](#versorgungsbatterie) einmal ganz aufzuladen, gibt es drei verschiedene Möglichkeiten:
+    Um die [Versorgungsbatterie](#versorgungsbatterie) einmal ganz aufzuladen und den [Batterie-Computer](#batterie-computer) neu zu kalibrieren, gibt es drei verschiedene Möglichkeiten:
 
     1. **Landstrom** ***(Sicherste Methode)***:  
     Das Fahrzeug über die [CEE-Dose](#cee-dose) für min. **24h an den Landstrom anschließen**. Somit kann gewährleistet werden, dass die [Versorgungsbatterie](#versorgungsbatterie) nun wirklich 100% ihrer Ladekapazität erreicht hat.
 
     2. **Ladebooster**:  
     Das Fahrzeug für **einige Stunden fahren**, sodass die [Versorgungsbatterie](#versorgungsbatterie) durch den [Ladebooster](#ladebooster) von der Lichtmaschine mit aufgeladen wird.  
-    Um sicherzugehen, dass diese auch wirklich 100% ihrer Ladekapazität erreicht hat, sollte bei laufendem Motor am [Batterie-Computer](#batterie-computer) der Ladestrom überprüft werden. Wenn dieser extrem niedrig ist *(Bspw. < xA)*, so kann davon ausgegangen werden, dass diese nun voll geladen ist.
+    Um sicherzugehen, dass diese auch wirklich 100% ihrer Ladekapazität erreicht hat, sollte bei laufendem Motor am [Batterie-Computer](#batterie-computer) der Ladestrom überprüft werden. Wenn dieser relativ niedrig ist *(Ca. < 2A)*, so kann davon ausgegangen werden, dass diese nun voll aufgeladen ist.
 
     3. **Solar**:  
     Das Fahrzeug für **einige Tage in der Sonne stehen lassen**, sodass die [Versorgungsbatterie](#versorgungsbatterie) durch den Solarstrom aufgeladen wird.  
-    Um sicherzugehen, dass diese auch wirklich 100% ihrer Ladekapazität erreicht hat, sollte bei starker Sonneneinstrahlung am [Batterie-Computer](#batterie-computer) der Ladestrom überprüft werden. Wenn dieser extrem niedrig ist *(Bspw. < xA)*, so kann davon ausgegangen werden, dass diese nun voll geladen ist.
+    Um sicherzugehen, dass diese auch wirklich 100% ihrer Ladekapazität erreicht hat, sollte bei starker Sonneneinstrahlung am [Batterie-Computer](#batterie-computer) der Ladestrom überprüft werden. Wenn dieser relativ niedrig ist *(Ca. < 2A)*, so kann davon ausgegangen werden, dass diese nun voll geladen ist.
 
 ## Wartung
 
@@ -246,20 +245,25 @@ Nach erfolgtem Ladevorgang den **Landstrom vom Fahrzeug trennen** und den [Batte
 
 Gehe folgendermaßen vor:
 
-1. [FI-Leitungsschutzschalter](#fi-leitungsschutzschalter-landstrom) **ausschalten (OFF/Grün)**.
+1. Motor **ausschalten** *(wenn laufend)*.
 
-2. [Ladebooster-Trennschalter](#ladebooster-trennschalter) **ausschalten (OFF)**.
+2. Landstrom **trennen** *(wenn angeschlossen)*.
 
-3. [Solar-Trennschalter](#solar-trennschalter) **ausschalten (OFF)**.
+3. [FI-Leitungsschutzschalter](#fi-leitungsschutzschalter-landstrom) **ausschalten (OFF/Grün)**.
 
-4. [Batterie-Hauptschalter](#batterie-hauptschalter) **ausschalten (OFF)**.
+4. [Solar-Trennschalter](#solar-trennschalter) **ausschalten (OFF)**.
+
+5. [Haupt-Trennschalter](#haupt-trennschalter) **ausschalten (OFF)**.
 
 Nach einer erfolgreichen Wartung kannst du die oben beschriebenen Schritte in umgekehrter Reihenfolge wieder rückgängig machen. Prüfe danach unbedingt erneut, ob weiterhin alles wie geplant funktioniert!
 
 ## Notfall
 
-Sollte irgendetwas mal schiefgehen *(**Kabelbrand o.Ä.**)*, so kannst du ganz einfach die [Versorgungsbatterie](#versorgungsbatterie) vom Bordnetz trennen, indem du den **[Batterie-Hauptschalter](#batterie-hauptschalter) ausschaltest (OFF)**. Dieser befindet sich unter der *(in Fahrtrichtung)* linken Sitzgelegenheits-Abdeckung.
+**[Haupt-Trennschalter](#haupt-trennschalter) ausschalten (OFF)**
 
+Sollte irgendetwas mal schiefgehen *(**Kabelbrand o.Ä.**)*, so kannst du ganz einfach die [Versorgungsbatterie](#versorgungsbatterie) vom Bordnetz trennen, indem du den [Haupt-Trennschalter](#haupt-trennschalter) **ausschaltest (OFF)**. Dieser befindet sich unter der *(in Fahrtrichtung)* linken Sitzgelegenheits-Abdeckung.
+
+Weitere Schritte für eine sichere Begutachtung des Systems sind im Abschnitt [Wartung](#wartung) aufgelistet.  
 Für weitere Hilfe siehe unter [Support & Kontakt](#support--kontakt).
 
 ## Support & Kontakt
@@ -298,9 +302,9 @@ Mit den zwei **12V-Dosen** kannst du jegliche Gerät mit Strom versorgen, welche
  
 ![Bild folgt ...](images/5V_USB_&_12V_Dose_Ausschnitt.jpeg)
 
-### Batterie-Hauptschalter:
+### Haupt-Trennschalter:
 
-Mit dem **Batterie-Hauptschalter** kannst du wenn nötig die [Versorgungsbatterie](#versorgungsbatterie) komplett von der restlichen Bordelektrik trennen. Dies ist normalerweise nicht von Nöten, sondern ist lediglich für die [Überwinterung](#überwintern), [Wartungen](#wartung) oder im [Notfall](#notfall) vorgesehen.
+Mit dem **Haupt-Trennschalter** kannst du wenn nötig die [Versorgungsbatterie](#versorgungsbatterie) komplett von der restlichen Bordelektrik trennen. Dies ist normalerweise nicht von Nöten, sondern ist lediglich für die [Überwinterung](#überwintern), [Wartungen](#wartung) oder im [Notfall](#notfall) vorgesehen.
 
 ![Bild folgt ...](images/Batterie_Hauptschalter_Ausschnitt.jpeg)
 
@@ -310,35 +314,11 @@ Mit dem **Solar-Trennschalter** kannst du wenn nötig die Solar-Panels vom Dach 
 
 ![Bild folgt ...](images/Solar_Trennschalter_Ausschnitt.jpeg)
 
-### Ladebooster-Trennschalter:
-
-Mit dem **Ladebooster-Trennschalter** kannst du wenn nötig den [Ladebooster](#ladebooster) von der Fahrzeugbatterie trennen um so den automatischen Start des Gerätes bzw. den Ladevorgang der [Versorgungsbatterie](#versorgungsbatterie) bei laufendem Motor zu unterbinden. Dies ist normalerweise nicht von Nöten, sondern ist lediglich für die [Überwinterung](#überwintern), [Wartungen](#wartung) oder im [Notfall](#notfall) vorgesehen.
-
-![Bild folgt ...](images/Ladebooster_Trennschalter_Ausschnitt.jpeg)
-
 ### 12V Sicherungskästen:
 
 Mit den beiden **12V Sicherungskästen** ist deine 12V-Bordelektrik vor gefährlichen Kabelbränden geschützt. Fließt an einer Stelle mehr Strom als erwartet, brennt die Sicherung durch und kann danach *(nach genauer Fehlerüberprüfung)* wieder ausgetauscht werden. Das ganze funktioniert natürlich nur dann einwandfrei, wenn die Sicherungen korrekt ausgewählt wurden. Hierfür sollte, im Vergleich zum ausgerechneten Stromverbrauch für den einzelnen Verbraucher, immer die nächst-größere Sicherung ausgewählt werden.
 
 ![Bild folgt ...](images/12V_Sicherungskästen_Trennschalter_Ausschnitt.jpeg)
-
-### Versorgungsbatterie:
-
-Mit der **Versorgungsbatterie** wird die komplette Bordelektrik mit Strom versorgt. Es handelt sich hierbei um eine 12V 230Ah AGM Batterie der Firma Ective.
-
-![Bild folgt ...](images/Versorgungsbatterie_Ausschnitt.jpeg)
-
-### Wechselrichter:
-
-Mit dem **Wechselrichter** hast du die Möglichkeit auch unterwegs und ohne angeschlossenen Landstrom Zugang zu deinem 230V-Bordnetz zu haben. Es handelt sich hierbei um einen 1000W Wechselrichter mit integriertem MPPT-Solarladeregler und Landstrom-Ladegerät der Firma Ective.
-
-![Bild folgt ...](images/Wechselrichter_Ausschnitt.jpeg)
-
-### Ladebooster:
-
-Mit dem **Ladebooster** hast du die Möglichkeit auch während der Fahrt die [Versorgungsbatterie](#versorgungsbatterie) über die Lichtmaschine mit aufzuladen. Es handelt sich hierbei um einen 50A Ladebooster der Firma Votronic.
-
-![Bild folgt ...](images/Ladebooster_Ausschnitt.jpeg)
 
 ### Switch-Unit 100:
 
@@ -346,14 +326,32 @@ Mit der **Switch-Unit 100** wird sichergestellt, dass es nicht zu einer ungewoll
 
 ![Bild folgt ...](images/Switch_Unit_100_Ausschnitt.jpeg)
 
+### Ladebooster:
+
+Mit dem **Ladebooster** hast du die Möglichkeit auch während der Fahrt die [Versorgungsbatterie](#versorgungsbatterie) über die Lichtmaschine mit aufzuladen. Es handelt sich hierbei um einen 50A Ladebooster der Firma Votronic.
+
+![Bild folgt ...](images/Ladebooster_Ausschnitt.jpeg)
+
+### Wechselrichter:
+
+Mit dem **Wechselrichter** hast du die Möglichkeit auch unterwegs und ohne angeschlossenen Landstrom Zugang zu deinem 230V-Bordnetz zu haben. Es handelt sich hierbei um einen 1000W Wechselrichter mit integriertem MPPT-Solarladeregler und Landstrom-Ladegerät der Firma Ective.
+
+![Bild folgt ...](images/Wechselrichter_Ausschnitt.jpeg)
+
+### Versorgungsbatterie:
+
+Mit der **Versorgungsbatterie** wird die komplette Bordelektrik mit Strom versorgt. Es handelt sich hierbei um eine 12V 230Ah AGM Batterie der Firma Ective.
+
+![Bild folgt ...](images/Versorgungsbatterie_Ausschnitt.jpeg)
+
 ### CEE-Dose:
 
-Mit der **CEE-Dose** kann der Landstrom sicher in das Fahrzeug eingespeist werden.
+Mit der **CEE-Dose** kann der Landstrom sicher zum Laden der [Versorgungsbatterie](#versorgungsbatterie) und zum Nutzen der [230V-Steckdose](#230v-steckdose) im Innenraum des Campers in das Fahrzeug eingespeist werden.
 
 ![Bild folgt ...](images/CEE_Dose_Ausschnitt.jpeg)
 
 ### FI-Leitungsschutzschalter (Landstrom):
 
-Mit dem **FI-Leitungsschutzschalter** wird die 230V-Bordelektrik abgesichert.
+Mit dem **FI-Leitungsschutzschalter** wird die 230V-Bordelektrik abgesichert. Du findest diesen im **untersten Fach** der Küchenzeile, hinten im **Sicherungskasten**.
 
 ![Bild folgt ...](images/FI_Leitungsschutzschalter_Ausschnitt.jpeg)
