@@ -55,31 +55,31 @@ Mit den beiden **Pfeiltasten** *(links & mittig)* kannst du zwischen den einzeln
 
 Hier kannst du sehen, ob die **12V-Bordelektrik** aktuell **eingeschaltet (ON)** oder **abgeschaltet (OFF)** ist.
 
-![Status](images/Status_Ausschnitt.jpeg)
+![Status](images/STATUS.jpeg)
 
 #### Balken-Anzeige
 
 Hier kannst du immer den aktuellen **Ladezustand** der [Versorgungsbatterie](#versorgungsbatterie) grob als Balken-Anzeige in **10% Schritten** sehen.
 
-![Balken-Anzeige](images/Balken_Anzeige_Ausschnitt.jpeg)
+![Balken-Anzeige](images/BALKEN.jpeg)
 
 #### Ladezustand (%)
 
 Hier kannst du den aktuellen **Ladezustand** der [Versorgungsbatterie](#versorgungsbatterie) in **Prozent (%)** einsehen.
 
-![Ladezustand-Prozent](images/Prozent_Ausschnitt.jpeg)
+![Ladezustand-Prozent](images/PROZENT.jpeg)
 
 #### Ladezustand (Ah)
 
 Hier kannst du den aktuellen **Ladezustand** der [Versorgungsbatterie](#versorgungsbatterie) in **Amperestunden (Ah)** einsehen.
 
-![Ladezustand-Ah](images/AH_Ausschnitt.jpeg)
+![Ladezustand-Ah](images/AMPERESTUNDEN.jpeg)
 
 #### Strom (A)
 
 Hier kannst du den aktuellen **Stromfluss** von und zur [Versorgungsbatterie](#versorgungsbatterie) in **Ampere (A)** einsehen.
 
-![Strom](images/Strom_Ausschnitt.jpeg)
+![Strom](images/AMPERE.jpeg)
 
 > ***INFO:***  
 *Ist der Wert negativ (-), so wird der [Versorgungsbatterie](#versorgungsbatterie) aktuell Strom entnommen.  
@@ -89,19 +89,19 @@ Steht kein Vorzeichen vor dem Wert, so wird diese aktuell geladen (Erkennbar dur
 
 Hier kannst du die aktuelle **Spannung** der **[Versorgungsbatterie (Board)](#versorgungsbatterie)** in **Volt (V)** einsehen.
 
-![Spannung-Board](images/Board_Ausschnitt.jpeg)
+![Spannung-Board](images/VOLT_BORD.jpeg)
 
 #### Spannung Starterbatterie (V)
 
 Hier kannst du die aktuelle **Spannung** der **Fahrzeugbatterie (Start)** in **Volt (V)** einsehen.
 
-![Spannung-Start](images/Start_Ausschnitt.jpeg)
+![Spannung-Start](images/VOLT_START.jpeg)
 
 #### Verbleibende Zeit (h)
 
 Hier kannst du die **verbleibende Zeit** abhängig vom aktuellen [Stromverbrauch](#strom-a) im Camper und dem aktuellen [Ladezustand](#ladezustand-) der [Versorgungsbatterie](#versorgungsbatterie) in **Stunden (h)** einsehen.
 
-![Stunden](images/Stunden_Ausschnitt.jpeg)
+![Stunden](images/STUNDEN.jpeg)
 
 ### Versorgungsbatterie laden
 
@@ -280,19 +280,19 @@ Meine **Telefonnummer** findest du bei der Bordelektrik unter der *(in Fahrtrich
 
 Mit dem **Batterie-Computer** kannst du die 12V-Bordelektrik überwachen und steuern. Mehr Infos dazu findes du im Abschnitt [Bordnetz (12V) -> Überwachung](#überwachung).
 
-![Bild folgt ...](images/Batterie_Computer_Ausschnitt.jpeg)
+![Bild folgt ...](images/COMPUTER.jpeg)
 
 ### 230V-Kontrollpanel:
 
 Mit dem **230V-Kontrollpanel** kannst du den [Wechselrichter](#wechselrichter) bedienen, der dafür sorgt, dass du auch unterwegs und ohne Landstrom Zugang zu deinem 230V-Bordnetz hast.
 
-![Bild folgt ...](images/230V_Kontrollpanel_Ausschnitt.jpeg)
+![Bild folgt ...](images/CONTROL.jpeg)
 
 ### 230V-Steckdose:
 
 Mit der **230V-Steckdose** hast du auch in deinem Camper Zugriff auf entweder den angeschlossenen Landstrom oder aber auch den vom [Wechselrichter](#wechselrichter) generierten, sinusförmigen 230V Wechselstrom für unterwegs.
 
-![Bild folgt ...](images/230V_Steckdose_Ausschnitt.jpeg)
+![Bild folgt ...](images/230V.jpeg)
 
 ### 5V USB & 12V-Dosen:
 
@@ -300,58 +300,62 @@ Mit den vier **5V USB-Steckplätzen** hast du immer und überall die Möglichkei
 
 Mit den zwei **12V-Dosen** kannst du jegliche Gerät mit Strom versorgen, welche sonst im Zigarettenanzünder angeschlossen werden.
  
-![Bild folgt ...](images/5V_USB_&_12V_Dose_Ausschnitt.jpeg)
+![Bild folgt ...](images/12V.jpeg)
 
 ### Haupt-Trennschalter:
 
 Mit dem **Haupt-Trennschalter** kannst du wenn nötig die [Versorgungsbatterie](#versorgungsbatterie) komplett von der restlichen Bordelektrik trennen. Dies ist normalerweise nicht von Nöten, sondern ist lediglich für die [Überwinterung](#überwintern), [Wartungen](#wartung) oder im [Notfall](#notfall) vorgesehen.
 
-![Bild folgt ...](images/Batterie_Hauptschalter_Ausschnitt.jpeg)
+![Bild folgt ...](images/KILLSWITCH.jpeg)
 
 ### Solar-Trennschalter:
 
 Mit dem **Solar-Trennschalter** kannst du wenn nötig die Solar-Panels vom Dach von der restlichen Bordelektrik trennen. Dies ist normalerweise nicht von Nöten, sondern ist lediglich für die [Überwinterung](#überwintern), [Wartungen](#wartung) oder im [Notfall](#notfall) vorgesehen.
 
-![Bild folgt ...](images/Solar_Trennschalter_Ausschnitt.jpeg)
+![Bild folgt ...](images/SOLAR.jpeg)
 
 ### 12V Sicherungskästen:
 
 Mit den beiden **12V Sicherungskästen** ist deine 12V-Bordelektrik vor gefährlichen Kabelbränden geschützt. Fließt an einer Stelle mehr Strom als erwartet, brennt die Sicherung durch und kann danach *(nach genauer Fehlerüberprüfung)* wieder ausgetauscht werden. Das ganze funktioniert natürlich nur dann einwandfrei, wenn die Sicherungen korrekt ausgewählt wurden. Hierfür sollte, im Vergleich zum ausgerechneten Stromverbrauch für den einzelnen Verbraucher, immer die nächst-größere Sicherung ausgewählt werden.
 
-![Bild folgt ...](images/12V_Sicherungskästen_Trennschalter_Ausschnitt.jpeg)
+#### Haupt-Verbraucher:
+![Bild folgt ...](images/FUSE_BIG.jpeg)
+
+#### Klein-Verbraucher:
+![Bild folgt ...](images/FUSE_SMALL.jpeg)
 
 ### Switch-Unit 100:
 
 Mit der **Switch-Unit 100** wird sichergestellt, dass es nicht zu einer ungewollten [Tiefenentladung](#tiefenentladeschutz) kommt. Sie fungiert als Schalter *(Relais)* und trennt bei Bedarf durch ein externes Signal vom [Batterie-Computer](#batterie-computer) die [Versorgungsbatterie](#versorgungsbatterie) von der restlichen Bordelektrik.
 
-![Bild folgt ...](images/Switch_Unit_100_Ausschnitt.jpeg)
+![Bild folgt ...](images/SWITCHUNIT.jpeg)
 
 ### Ladebooster:
 
 Mit dem **Ladebooster** hast du die Möglichkeit auch während der Fahrt die [Versorgungsbatterie](#versorgungsbatterie) über die Lichtmaschine mit aufzuladen. Es handelt sich hierbei um einen 50A Ladebooster der Firma Votronic.
 
-![Bild folgt ...](images/Ladebooster_Ausschnitt.jpeg)
+![Bild folgt ...](images/BOOSTER.jpeg)
 
 ### Wechselrichter:
 
 Mit dem **Wechselrichter** hast du die Möglichkeit auch unterwegs und ohne angeschlossenen Landstrom Zugang zu deinem 230V-Bordnetz zu haben. Es handelt sich hierbei um einen 1000W Wechselrichter mit integriertem MPPT-Solarladeregler und Landstrom-Ladegerät der Firma Ective.
 
-![Bild folgt ...](images/Wechselrichter_Ausschnitt.jpeg)
+![Bild folgt ...](images/INVERTER.jpeg)
 
 ### Versorgungsbatterie:
 
 Mit der **Versorgungsbatterie** wird die komplette Bordelektrik mit Strom versorgt. Es handelt sich hierbei um eine 12V 230Ah AGM Batterie der Firma Ective.
 
-![Bild folgt ...](images/Versorgungsbatterie_Ausschnitt.jpeg)
+![Bild folgt ...](images/BATTERIE.jpeg)
 
 ### CEE-Dose:
 
 Mit der **CEE-Dose** kann der Landstrom sicher zum Laden der [Versorgungsbatterie](#versorgungsbatterie) und zum Nutzen der [230V-Steckdose](#230v-steckdose) im Innenraum des Campers in das Fahrzeug eingespeist werden.
 
-![Bild folgt ...](images/CEE_Dose_Ausschnitt.jpeg)
+![Bild folgt ...](images/CEE.jpeg)
 
 ### FI-Leitungsschutzschalter (Landstrom):
 
 Mit dem **FI-Leitungsschutzschalter** wird die 230V-Bordelektrik abgesichert. Du findest diesen im **untersten Fach** der Küchenzeile, hinten im **Sicherungskasten**.
 
-![Bild folgt ...](images/FI_Leitungsschutzschalter_Ausschnitt.jpeg)
+![Bild folgt ...](images/FI.jpeg)
