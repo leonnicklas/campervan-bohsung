@@ -253,15 +253,19 @@ Gehe folgendermaßen vor:
 
 4. [Solar-Trennschalter](#solar-trennschalter) **ausschalten (OFF)**.
 
-5. [Haupt-Trennschalter](#haupt-trennschalter) **ausschalten (OFF)**.
+5. [Bordnetz (12V) manuell abschalten](#manuell-abschalten) **(OFF)**.
 
 Nach einer erfolgreichen Wartung kannst du die oben beschriebenen Schritte in umgekehrter Reihenfolge wieder rückgängig machen. Prüfe danach unbedingt erneut, ob weiterhin alles wie geplant funktioniert!
 
 ## Notfall
 
-**[Haupt-Trennschalter](#haupt-trennschalter) ausschalten (OFF)**
+**[Haupt-Trennschalter](#haupt-trennschalter) ausschalten (OFF)**  
+*oder*  
+**[Bordnetz (12V) manuell ausschalten](#manuell-abschalten) (OFF)**
 
 Sollte irgendetwas mal schiefgehen *(**Kabelbrand o.Ä.**)*, so kannst du ganz einfach die [Versorgungsbatterie](#versorgungsbatterie) vom Bordnetz trennen, indem du den [Haupt-Trennschalter](#haupt-trennschalter) **ausschaltest (OFF)**. Dieser befindet sich unter der *(in Fahrtrichtung)* linken Sitzgelegenheits-Abdeckung.
+
+Eine weitere Möglichkeit wäre, das [Bordnetz (12V) manuell auszuschalten](#manuell-abschalten) **(OFF)**.
 
 Weitere Schritte für eine sichere Begutachtung des Systems sind im Abschnitt [Wartung](#wartung) aufgelistet.  
 Für weitere Hilfe siehe unter [Support & Kontakt](#support--kontakt).
