@@ -44,16 +44,16 @@ Um jegliche 12V-Verbraucher nutzen zu können, muss nichts weiter unternommen we
 > ***WICHTIG:***  
 *Achte stetig darauf, dass der [Ladezustand](#ladezustand-) der [Versorgungsbatterie](#versorgungsbatterie) nicht unter **50%** fällt.  
 Ist dies dennoch der Fall, siehe zu, dass du möglichst bald wieder laden kannst. Infos dazu findest du im Abschnitt [Bordnetz (12V) -> Versorgungsbatterie laden](#versorgungsbatterie-laden).  
-Falls er jedoch unter die Marke von **30%** (oder **10,5V** [Batterie-Spannung](#spannung-versorgungsbatterie-v)) fällt, so greift der [Tiefenentladeschutz](#tiefenentladeschutz) und schaltet die 12V-Bordelektrik automatisch ab, um einen **Schaden** zu verhindern.*
+Falls er jedoch unter die Marke von **30%** (oder **10,5V** [Batterie-Spannung](#spannung-versorgungsbatterie-v)) fällt, so greift der [Tiefenentladeschutz](#tiefenentladeschutz) und schaltet die [12V-Bordelektrik](#12v-bordelektrik) automatisch ab, um einen **Schaden** zu verhindern.*
 
 ### Überwachung
 
-Mit dem [Batterie-Computer](#batterie-computer) hast du zu jeder Zeit den vollen Überblick über die 12V-Bordelektrik.  
+Mit dem [Batterie-Computer](#batterie-computer) hast du zu jeder Zeit den vollen Überblick über die [12V-Bordelektrik](#12v-bordelektrik).  
 Mit den beiden **Pfeiltasten** *(links & mittig)* kannst du zwischen den einzelnen **Anzeigen wechseln**. Die einzelnen Anzeigen sind folgend genauer beschrieben:
 
 #### Status (ON/OFF)
 
-Hier kannst du sehen, ob die **12V-Bordelektrik** aktuell **eingeschaltet (ON)** oder **abgeschaltet (OFF)** ist. Das Ein-/Abschalten der Bordelektrik kannst du durchführen, indem du die mit **ON** bzw. **OFF** beschrifteten Tasten auf dem [Batterie-Computer](#batterie-computer) jeweils 3 Sekunden gedrückt hältst (Genaueres dazu findest du unter [Bordnetz (12V) manuell schalten](#manuell-abschalten)).
+Hier kannst du sehen, ob die [12V-Bordelektrik](#12v-bordelektrik) aktuell **eingeschaltet (ON)** oder **abgeschaltet (OFF)** ist. Das Ein-/Abschalten der Bordelektrik kannst du durchführen, indem du die mit **ON** bzw. **OFF** beschrifteten Tasten auf dem [Batterie-Computer](#batterie-computer) jeweils 3 Sekunden gedrückt hältst (Genaueres dazu findest du unter [Bordnetz (12V) manuell schalten](#manuell-abschalten)).
 
 ![Status](images/STATUS.jpeg)
 
@@ -123,10 +123,10 @@ Zusätzlich dazu sollte nun ebenfalls Strom an der [230V-Steckdose](#230v-steckd
 Im Idealfall sollte die [Versorgungsbatterie](#versorgungsbatterie) nicht unter **50%** entladen werden.  
 Sollte es jedoch dazu kommen, dass der [Ladezustand](#ladezustand-) unter **30%** fällt, schaltet sich das 12V-Bordnetz automatisch ab, da sonst die **Batterie-Lebensdauer** zu stark darunter leiden würde.
 
-Erkennbar ist die abgeschaltete 12V-Bordelektrik daran, dass im Display des [Batterie-Computers](#batterie-computer) oben mittig **"OFF"** zu lesen ist.
+Erkennbar ist die abgeschaltete [12V-Bordelektrik](#12v-bordelektrik) daran, dass im Display des [Batterie-Computers](#batterie-computer) oben mittig **"OFF"** zu lesen ist.
 
 > ***INFO:***  
-*Falls du trotz automatisch abgeschalteter 12V-Bordelektrik dringend **weiterhin Strom** benötigst und dafür auch eine Lebensdauer-geschädigte [Versorgungsbatterie](#versorgungsbatterie) in Kauf nimmst, so kannst du an der [Switch Unit 100](#switch-unit-100) unten mittig das **Relais manuell** wieder **schließen (ON)**, um so den Stromfluss wiederherzustellen.*
+*Falls du trotz automatisch abgeschalteter [12V-Bordelektrik](#12v-bordelektrik) dringend **weiterhin Strom** benötigst und dafür auch eine Lebensdauer-geschädigte [Versorgungsbatterie](#versorgungsbatterie) in Kauf nimmst, so kannst du an der [Switch Unit 100](#switch-unit-100) unten mittig das **Relais manuell** wieder **schließen (ON)**, um so den Stromfluss wiederherzustellen.*
 
 ### Sicherung
 
@@ -137,13 +137,13 @@ Falls einmal eine Sicherung durchbrennt, so lässt sich diese ganz einfach in ei
 
 ### Manuell abschalten
 
-Möchtest du die [Versorgungsbatterie](#versorgungsbatterie) von der 12V-Bordelektrik trennen, so kannst du dies über den [Batterie-Computer](#batterie-computer) vornehmen.
+Möchtest du die [Versorgungsbatterie](#versorgungsbatterie) von der [12V-Bordelektrik](#12v-bordelektrik) trennen, so kannst du dies über den [Batterie-Computer](#batterie-computer) vornehmen.
 
 Halte hierfür die **DOWN-Taste** *(links)* am [Batterie-Computer](#batterie-computer) für ca. **3 Sekunden** gedrückt. Nun sollte im Display oben mittig **"OFF"** zu lesen sein.
 
 ### Manuell einschalten
 
-Möchtest du die [Versorgungsbatterie](#versorgungsbatterie) an die 12V-Bordelektrik anschließen, so kannst du dies über den [Batterie-Computer](#batterie-computer) vornehmen.
+Möchtest du die [Versorgungsbatterie](#versorgungsbatterie) an die [12V-Bordelektrik](#12v-bordelektrik) anschließen, so kannst du dies über den [Batterie-Computer](#batterie-computer) vornehmen.
 
 Halte hierfür die **UP-Taste** *(mittig)* am [Batterie-Computer](#batterie-computer) für ca. **3 Sekunden** gedrückt. Nun sollte im Display oben mittig **"ON"** zu lesen sein.
 
@@ -282,7 +282,7 @@ Meine **Telefonnummer** findest du bei der Bordelektrik unter der *(in Fahrtrich
 
 ### Batterie-Computer:
 
-Mit dem **Batterie-Computer** kannst du die 12V-Bordelektrik überwachen und steuern. Mehr Infos dazu findes du im Abschnitt [Bordnetz (12V) -> Überwachung](#überwachung).
+Mit dem **Batterie-Computer** kannst du die [12V-Bordelektrik](#12v-bordelektrik) überwachen und steuern. Mehr Infos dazu findes du im Abschnitt [Bordnetz (12V) -> Überwachung](#überwachung).
 
 ![Batterie-Computer](images/COMPUTER.jpeg)
 
@@ -306,6 +306,12 @@ Mit den zwei **12V-Dosen** kannst du jegliche Gerät mit Strom versorgen, welche
  
 ![5V USB & 12V-Dosen](images/12V.jpeg)
 
+### 12V-Bordelektrik:
+
+Mit dem **12V-Bordelektrik** bekommst du überhaupt erst all die Möglichkeiten, welche dir die verbaute Elektrik bietet. Für mehr Details, lies weiter. Im Folgenden werden alle hier verbauten Komponenten weiter erläutert.
+
+![12V-Bordelektrik](images/ELECTRICS.jpeg)
+
 ### Haupt-Trennschalter:
 
 Mit dem **Haupt-Trennschalter** kannst du wenn nötig die [Versorgungsbatterie](#versorgungsbatterie) komplett von der restlichen Bordelektrik trennen. Dies ist normalerweise nicht von Nöten, sondern ist lediglich für die [Überwinterung](#überwintern), [Wartungen](#wartung) oder im [Notfall](#notfall) vorgesehen.
@@ -318,15 +324,15 @@ Mit dem **Solar-Trennschalter** kannst du wenn nötig die Solar-Panels vom Dach 
 
 ![Solar-Trennschalter](images/SOLAR.jpeg)
 
-### 12V Sicherungskästen:
+### 12V-Sicherungskästen:
 
-Mit den beiden **12V Sicherungskästen** ist deine 12V-Bordelektrik vor gefährlichen Kabelbränden geschützt. Fließt an einer Stelle mehr Strom als erwartet, brennt die Sicherung durch und kann danach *(nach genauer Fehlerüberprüfung)* wieder ausgetauscht werden. Das ganze funktioniert natürlich nur dann einwandfrei, wenn die Sicherungen korrekt ausgewählt wurden. Hierfür sollte, im Vergleich zum ausgerechneten Stromverbrauch für den einzelnen Verbraucher, immer die nächst-größere Sicherung ausgewählt werden.
+Mit den beiden **12V-Sicherungskästen** ist deine [12V-Bordelektrik](#12v-bordelektrik) vor gefährlichen Kabelbränden geschützt. Fließt an einer Stelle mehr Strom als erwartet, brennt die Sicherung durch und kann danach *(nach genauer Fehlerüberprüfung)* wieder ausgetauscht werden. Das ganze funktioniert natürlich nur dann einwandfrei, wenn die Sicherungen korrekt ausgewählt wurden. Hierfür sollte, im Vergleich zum ausgerechneten Stromverbrauch für den einzelnen Verbraucher, immer die nächst-größere Sicherung ausgewählt werden.
 
 #### Haupt-Verbraucher:
-![12V Sicherungskästen](images/FUSE_BIG.jpeg)
+![12V-Sicherungskästen](images/FUSE_BIG.jpeg)
 
 #### Klein-Verbraucher:
-![12V Sicherungskästen](images/FUSE_SMALL.jpeg)
+![12V-Sicherungskästen](images/FUSE_SMALL.jpeg)
 
 ### Switch-Unit 100:
 
@@ -342,7 +348,7 @@ Mit dem **Ladebooster** hast du die Möglichkeit auch während der Fahrt die [Ve
 
 ### Smart Shunt:
 
-Mit dem **Smart Shunt** bekommst du die Möglichkeit deine 12V-Bordelektrik zu überwachen. Der Messwiderstand ist dafür zuständig, den - in die Batterie rein / aus der Batterie raus - fließenden Strom zu messen. Die hier gemessenen Werte zum Zustand deiner [Versorgungsbatterie](#versorgungsbatterie) (und noch mehr) kannst du ganz bequem über den [Batterie-Computer](#batterie-computer) auslesen und bewerten.
+Mit dem **Smart Shunt** bekommst du die Möglichkeit deine [12V-Bordelektrik](#12v-bordelektrik) zu überwachen. Der Messwiderstand ist dafür zuständig, den - in die Batterie rein / aus der Batterie raus - fließenden Strom zu messen. Die hier gemessenen Werte zum Zustand deiner [Versorgungsbatterie](#versorgungsbatterie) (und noch mehr) kannst du ganz bequem über den [Batterie-Computer](#batterie-computer) auslesen und bewerten.
 
 ![Smart Shunt](images/SHUNT.jpeg)
 
