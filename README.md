@@ -53,7 +53,7 @@ Mit den beiden **Pfeiltasten** *(links & mittig)* kannst du zwischen den einzeln
 
 #### Status (ON/OFF)
 
-Hier kannst du sehen, ob die **12V-Bordelektrik** aktuell **eingeschaltet (ON)** oder **abgeschaltet (OFF)** ist.
+Hier kannst du sehen, ob die **12V-Bordelektrik** aktuell **eingeschaltet (ON)** oder **abgeschaltet (OFF)** ist. Das Ein-/Abschalten der Bordelektrik kannst du durchführen, indem du die mit **ON** bzw. **OFF** beschrifteten Tasten auf dem [Batterie-Computer](#batterie-computer) jeweils 3 Sekunden gedrückt hältst (Genaueres dazu findest du unter [Bordnetz (12V) manuell schalten](#manuell-abschalten)).
 
 ![Status](images/STATUS.jpeg)
 
@@ -261,7 +261,7 @@ Nach einer erfolgreichen Wartung kannst du die oben beschriebenen Schritte in um
 
 **[Haupt-Trennschalter](#haupt-trennschalter) ausschalten (OFF)**  
 *oder*  
-**[Bordnetz (12V) manuell ausschalten](#manuell-abschalten) (OFF)**
+**[Bordnetz (12V) manuell abschalten](#manuell-abschalten) (OFF)**
 
 Sollte irgendetwas mal schiefgehen *(**Kabelbrand o.Ä.**)*, so kannst du ganz einfach die [Versorgungsbatterie](#versorgungsbatterie) vom Bordnetz trennen, indem du den [Haupt-Trennschalter](#haupt-trennschalter) **ausschaltest (OFF)**. Dieser befindet sich unter der *(in Fahrtrichtung)* linken Sitzgelegenheits-Abdeckung.
 
@@ -284,19 +284,19 @@ Meine **Telefonnummer** findest du bei der Bordelektrik unter der *(in Fahrtrich
 
 Mit dem **Batterie-Computer** kannst du die 12V-Bordelektrik überwachen und steuern. Mehr Infos dazu findes du im Abschnitt [Bordnetz (12V) -> Überwachung](#überwachung).
 
-![Bild folgt ...](images/COMPUTER.jpeg)
+![Batterie-Computer](images/COMPUTER.jpeg)
 
 ### 230V-Kontrollpanel:
 
 Mit dem **230V-Kontrollpanel** kannst du den [Wechselrichter](#wechselrichter) bedienen, der dafür sorgt, dass du auch unterwegs und ohne Landstrom Zugang zu deinem 230V-Bordnetz hast.
 
-![Bild folgt ...](images/CONTROL.jpeg)
+![230V-Kontrollpanel](images/CONTROL.jpeg)
 
 ### 230V-Steckdose:
 
 Mit der **230V-Steckdose** hast du auch in deinem Camper Zugriff auf entweder den angeschlossenen Landstrom oder aber auch den vom [Wechselrichter](#wechselrichter) generierten, sinusförmigen 230V Wechselstrom für unterwegs.
 
-![Bild folgt ...](images/230V.jpeg)
+![230V-Steckdose](images/230V.jpeg)
 
 ### 5V USB & 12V-Dosen:
 
@@ -304,62 +304,68 @@ Mit den vier **5V USB-Steckplätzen** hast du immer und überall die Möglichkei
 
 Mit den zwei **12V-Dosen** kannst du jegliche Gerät mit Strom versorgen, welche sonst im Zigarettenanzünder angeschlossen werden.
  
-![Bild folgt ...](images/12V.jpeg)
+![5V USB & 12V-Dosen](images/12V.jpeg)
 
 ### Haupt-Trennschalter:
 
 Mit dem **Haupt-Trennschalter** kannst du wenn nötig die [Versorgungsbatterie](#versorgungsbatterie) komplett von der restlichen Bordelektrik trennen. Dies ist normalerweise nicht von Nöten, sondern ist lediglich für die [Überwinterung](#überwintern), [Wartungen](#wartung) oder im [Notfall](#notfall) vorgesehen.
 
-![Bild folgt ...](images/KILLSWITCH.jpeg)
+![Haupt-Trennschalter](images/KILLSWITCH.jpeg)
 
 ### Solar-Trennschalter:
 
 Mit dem **Solar-Trennschalter** kannst du wenn nötig die Solar-Panels vom Dach von der restlichen Bordelektrik trennen. Dies ist normalerweise nicht von Nöten, sondern ist lediglich für die [Überwinterung](#überwintern), [Wartungen](#wartung) oder im [Notfall](#notfall) vorgesehen.
 
-![Bild folgt ...](images/SOLAR.jpeg)
+![Solar-Trennschalter](images/SOLAR.jpeg)
 
 ### 12V Sicherungskästen:
 
 Mit den beiden **12V Sicherungskästen** ist deine 12V-Bordelektrik vor gefährlichen Kabelbränden geschützt. Fließt an einer Stelle mehr Strom als erwartet, brennt die Sicherung durch und kann danach *(nach genauer Fehlerüberprüfung)* wieder ausgetauscht werden. Das ganze funktioniert natürlich nur dann einwandfrei, wenn die Sicherungen korrekt ausgewählt wurden. Hierfür sollte, im Vergleich zum ausgerechneten Stromverbrauch für den einzelnen Verbraucher, immer die nächst-größere Sicherung ausgewählt werden.
 
 #### Haupt-Verbraucher:
-![Bild folgt ...](images/FUSE_BIG.jpeg)
+![12V Sicherungskästen](images/FUSE_BIG.jpeg)
 
 #### Klein-Verbraucher:
-![Bild folgt ...](images/FUSE_SMALL.jpeg)
+![12V Sicherungskästen](images/FUSE_SMALL.jpeg)
 
 ### Switch-Unit 100:
 
 Mit der **Switch-Unit 100** wird sichergestellt, dass es nicht zu einer ungewollten [Tiefenentladung](#tiefenentladeschutz) kommt. Sie fungiert als Schalter *(Relais)* und trennt bei Bedarf durch ein externes Signal vom [Batterie-Computer](#batterie-computer) die [Versorgungsbatterie](#versorgungsbatterie) von der restlichen Bordelektrik.
 
-![Bild folgt ...](images/SWITCHUNIT.jpeg)
+![Switch-Unit 100](images/SWITCHUNIT.jpeg)
 
 ### Ladebooster:
 
 Mit dem **Ladebooster** hast du die Möglichkeit auch während der Fahrt die [Versorgungsbatterie](#versorgungsbatterie) über die Lichtmaschine mit aufzuladen. Es handelt sich hierbei um einen 50A Ladebooster der Firma Votronic.
 
-![Bild folgt ...](images/BOOSTER.jpeg)
+![Ladebooster](images/BOOSTER.jpeg)
+
+### Smart Shunt:
+
+Mit dem **Smart Shunt** bekommst du die Möglichkeit deine 12V-Bordelektrik zu überwachen. Der Messwiderstand ist dafür zuständig, den - in die Batterie rein / aus der Batterie raus - fließenden Strom zu messen. Die hier gemessenen Werte zum Zustand deiner [Versorgungsbatterie](#versorgungsbatterie) (und noch mehr) kannst du ganz bequem über den [Batterie-Computer](#batterie-computer) auslesen und bewerten.
+
+![Smart Shunt](images/SHUNT.jpeg)
 
 ### Wechselrichter:
 
 Mit dem **Wechselrichter** hast du die Möglichkeit auch unterwegs und ohne angeschlossenen Landstrom Zugang zu deinem 230V-Bordnetz zu haben. Es handelt sich hierbei um einen 1000W Wechselrichter mit integriertem MPPT-Solarladeregler und Landstrom-Ladegerät der Firma Ective.
 
-![Bild folgt ...](images/INVERTER.jpeg)
+![Wechselrichter](images/INVERTER.jpeg)
 
 ### Versorgungsbatterie:
 
 Mit der **Versorgungsbatterie** wird die komplette Bordelektrik mit Strom versorgt. Es handelt sich hierbei um eine 12V 230Ah AGM Batterie der Firma Ective.
 
-![Bild folgt ...](images/BATTERIE.jpeg)
+![Versorgungsbatterie](images/BATTERIE.jpeg)
 
 ### CEE-Dose:
 
 Mit der **CEE-Dose** kann der Landstrom sicher zum Laden der [Versorgungsbatterie](#versorgungsbatterie) und zum Nutzen der [230V-Steckdose](#230v-steckdose) im Innenraum des Campers in das Fahrzeug eingespeist werden.
 
-![Bild folgt ...](images/CEE.jpeg)
+![CEE-Dose](images/CEE.jpeg)
 
 ### FI-Leitungsschutzschalter (Landstrom):
 
 Mit dem **FI-Leitungsschutzschalter** wird die 230V-Bordelektrik abgesichert. Du findest diesen im **untersten Fach** der Küchenzeile, hinten im **Sicherungskasten**.
 
-![Bild folgt ...](images/FI.jpeg)
+![FI-Leitungsschutzschalter](images/FI.jpeg)
