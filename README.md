@@ -282,7 +282,7 @@ Meine **Telefonnummer** findest du bei der Bordelektrik unter der *(in Fahrtrich
 
 ### LCD Batterie Computer 200 S (Votronic):
 
-[(Bedienungsanleitung)](https://www.votronic.de/images/Anleitungen/08.%20Mess-%20und%20Anzeigegeraete/1263_1266_1269.pdf)
+([Zur Bedienungsanleitung](https://www.votronic.de/images/Anleitungen/08.%20Mess-%20und%20Anzeigegeraete/1263_1266_1269.pdf))
 
 Mit dem **Batterie-Computer** kannst du die [12V-Bordelektrik](#12v-bordelektrik) überwachen und steuern. Mehr Infos dazu findes du im Abschnitt [Bordnetz (12V) -> Überwachung](#überwachung).
 
@@ -290,19 +290,19 @@ Mit dem **Batterie-Computer** kannst du die [12V-Bordelektrik](#12v-bordelektrik
 
 ### Wechselrichter Fernbedienung RC4 (Ective):
 
-[(Bedienungsanleitung)](https://www.ective.de/mediafiles/Datenblatt/ective/RC/Manual-Ective-RC.pdf)
+([Zur Bedienungsanleitung](https://www.ective.de/mediafiles/Datenblatt/ective/RC/Manual-Ective-RC.pdf))
 
 Mit dem **230V-Kontrollpanel** kannst du den [Wechselrichter](#wechselrichter) bedienen, der dafür sorgt, dass du auch unterwegs und ohne Landstrom Zugang zu deinem 230V-Bordnetz hast.
 
 ![230V-Kontrollpanel](images/CONTROL.jpeg)
 
-### 230V-Steckdose:
+### 230V Steckdose:
 
 Mit der **230V-Steckdose** hast du auch in deinem Camper Zugriff auf entweder den angeschlossenen Landstrom oder aber auch den vom [Wechselrichter](#wechselrichter) generierten, sinusförmigen 230V Wechselstrom für unterwegs.
 
 ![230V-Steckdose](images/230V.jpeg)
 
-### 5V USB & 12V-Dosen:
+### 5V USB & 12V Dosen:
 
 Mit den vier **5V USB-Steckplätzen** hast du immer und überall die Möglichkeit kleine elektronische Geräte wie Handys, Kameras und Co. zu laden.
 
@@ -310,7 +310,7 @@ Mit den zwei **12V-Dosen** kannst du jegliche Gerät mit Strom versorgen, welche
  
 ![5V USB & 12V-Dosen](images/12V.jpeg)
 
-### 12V-Bordelektrik:
+### 12V Bordelektrik:
 
 Mit dem **12V-Bordelektrik** bekommst du überhaupt erst all die Möglichkeiten, welche dir die verbaute Elektrik bietet. Für mehr Details, lies weiter. Im Folgenden werden alle hier verbauten Komponenten weiter erläutert.
 
@@ -328,19 +328,19 @@ Mit dem **Solar-Trennschalter** kannst du wenn nötig die Solar-Panels vom Dach 
 
 ![Solar-Trennschalter](images/SOLAR.jpeg)
 
-### 12V-Sicherungskästen:
+### 12V Sicherungskästen:
 
 Mit den beiden **12V-Sicherungskästen** ist deine [12V-Bordelektrik](#12v-bordelektrik) vor gefährlichen Kabelbränden geschützt. Fließt an einer Stelle mehr Strom als erwartet, brennt die Sicherung durch und kann danach *(nach genauer Fehlerüberprüfung)* wieder ausgetauscht werden. Das ganze funktioniert natürlich nur dann einwandfrei, wenn die Sicherungen korrekt ausgewählt wurden. Hierfür sollte, im Vergleich zum ausgerechneten Stromverbrauch für den einzelnen Verbraucher, immer die nächst-größere Sicherung ausgewählt werden.
 
-#### Haupt-Verbraucher:
+#### Hauptverbraucher:
 ![12V-Sicherungskästen](images/FUSE_BIG.jpeg)
 
-#### Klein-Verbraucher:
+#### Kleinverbraucher:
 ![12V-Sicherungskästen](images/FUSE_SMALL.jpeg)
 
-### Trennrelais Switch Unit 100 (Votronic):
+### Switch Unit 100 (Votronic):
 
-[(Bedienungsanleitung)](https://www.votronic.de/images/Anleitungen/10.%20Periphere%20Geraete/2072.pdf)
+([Zur Bedienungsanleitung](https://www.votronic.de/images/Anleitungen/10.%20Periphere%20Geraete/2072.pdf))
 
 Mit der **Switch-Unit 100** wird sichergestellt, dass es nicht zu einer ungewollten [Tiefenentladung](#tiefenentladeschutz) kommt. Sie fungiert als Schalter *(Relais)* und trennt bei Bedarf durch ein externes Signal vom [Batterie-Computer](#batterie-computer) die [Versorgungsbatterie](#versorgungsbatterie) von der restlichen Bordelektrik.
 
@@ -348,7 +348,7 @@ Mit der **Switch-Unit 100** wird sichergestellt, dass es nicht zu einer ungewoll
 
 ### Ladebooster VCC 1212-50 (Votronic):
 
-[Bedienungsanleitung](https://www.votronic.de/images/Anleitungen/04.%20B2B%20Ladegeraete%20Booster/3326_3328_3329.pdf)
+([Zur Bedienungsanleitung](https://www.votronic.de/images/Anleitungen/04.%20B2B%20Ladegeraete%20Booster/3326_3328_3329.pdf))
 
 Mit dem **Ladebooster** hast du die Möglichkeit auch während der Fahrt die [Versorgungsbatterie](#versorgungsbatterie) über die Lichtmaschine mit aufzuladen. Es handelt sich hierbei um einen 50A Ladebooster der Firma Votronic.
 
@@ -356,7 +356,7 @@ Mit dem **Ladebooster** hast du die Möglichkeit auch während der Fahrt die [Ve
 
 ### Smart Shunt 200 A (Votronic):
 
-[(Bedienungsanleitung)](https://www.votronic.de/images/Anleitungen/08.%20Mess-%20und%20Anzeigegeraete/1263_1266_1269.pdf)
+([Zur Bedienungsanleitung](https://www.votronic.de/images/Anleitungen/08.%20Mess-%20und%20Anzeigegeraete/1263_1266_1269.pdf))
 
 Mit dem **Smart Shunt** bekommst du die Möglichkeit deine [12V-Bordelektrik](#12v-bordelektrik) zu überwachen. Der Messwiderstand ist dafür zuständig, den - in die Batterie rein / aus der Batterie raus - fließenden Strom zu messen. Die hier gemessenen Werte zum Zustand deiner [Versorgungsbatterie](#versorgungsbatterie) (und noch mehr) kannst du ganz bequem über den [Batterie-Computer](#batterie-computer) auslesen und bewerten.
 
@@ -364,7 +364,7 @@ Mit dem **Smart Shunt** bekommst du die Möglichkeit deine [12V-Bordelektrik](#1
 
 ### Wechselrichter SSI 10 (Ective):
 
-[(Bedienungsanleitung)](https://www.ective.de/mediafiles/Datenblatt/ective/Inverter-2020/Manual-Ective-CSI-SSI.pdf)
+([Zur Bedienungsanleitung](https://www.ective.de/mediafiles/Datenblatt/ective/Inverter-2020/Manual-Ective-CSI-SSI.pdf))
 
 Mit dem **Wechselrichter** hast du die Möglichkeit auch unterwegs und ohne angeschlossenen Landstrom Zugang zu deinem 230V-Bordnetz zu haben. Es handelt sich hierbei um einen 1000W Wechselrichter mit integriertem MPPT-Solarladeregler und Landstrom-Ladegerät der Firma Ective.
 
@@ -372,19 +372,19 @@ Mit dem **Wechselrichter** hast du die Möglichkeit auch unterwegs und ohne ange
 
 ### Versorgungsbatterie DC 230s (Ective):
 
-[(Bedienungsanleitung)](
+([Zur Bedienungsanleitung](https://www.ective.de/mediafiles/Datenblatt/ective/DC-S/AGM/Ective-DC-S-Manual.pdf))
 
 Mit der **Versorgungsbatterie** wird die komplette Bordelektrik mit Strom versorgt. Es handelt sich hierbei um eine 12V 230Ah AGM Batterie der Firma Ective.
 
 ![Versorgungsbatterie](images/BATTERIE.jpeg)
 
-### CEE-Dose:
+### CEE Dose:
 
 Mit der **CEE-Dose** kann der Landstrom sicher zum Laden der [Versorgungsbatterie](#versorgungsbatterie) und zum Nutzen der [230V-Steckdose](#230v-steckdose) im Innenraum des Campers in das Fahrzeug eingespeist werden.
 
 ![CEE-Dose](images/CEE.jpeg)
 
-### FI-Leitungsschutzschalter (Landstrom):
+### FI Leitungsschutzschalter (Landstrom):
 
 Mit dem **FI-Leitungsschutzschalter** wird die 230V-Bordelektrik abgesichert. Du findest diesen im **untersten Fach** der Küchenzeile, hinten im **Sicherungskasten**.
 
