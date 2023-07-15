@@ -286,11 +286,15 @@ Mit dem **Batterie-Computer** kannst du die [12V-Bordelektrik](#12v-bordelektrik
 
 ![Batterie-Computer](images/COMPUTER.jpeg)
 
+[Bedienungsanleitung](
+
 ### 230V-Kontrollpanel:
 
 Mit dem **230V-Kontrollpanel** kannst du den [Wechselrichter](#wechselrichter) bedienen, der dafür sorgt, dass du auch unterwegs und ohne Landstrom Zugang zu deinem 230V-Bordnetz hast.
 
 ![230V-Kontrollpanel](images/CONTROL.jpeg)
+
+[Bedienungsanleitung](
 
 ### 230V-Steckdose:
 
@@ -340,13 +344,15 @@ Mit der **Switch-Unit 100** wird sichergestellt, dass es nicht zu einer ungewoll
 
 ![Switch-Unit 100](images/SWITCHUNIT.jpeg)
 
+[Bedienungsanleitung](
+
 ### Ladebooster:
 
 Mit dem **Ladebooster** hast du die Möglichkeit auch während der Fahrt die [Versorgungsbatterie](#versorgungsbatterie) über die Lichtmaschine mit aufzuladen. Es handelt sich hierbei um einen 50A Ladebooster der Firma Votronic.
 
 ![Ladebooster](images/BOOSTER.jpeg)
 
-![Bedienungsanleitung](https://www.votronic.de/images/Anleitungen/04.%20B2B%20Ladegeraete%20Booster/3326_3328_3329.pdf)
+[Bedienungsanleitung](https://www.votronic.de/images/Anleitungen/04.%20B2B%20Ladegeraete%20Booster/3326_3328_3329.pdf)
 
 ### Smart Shunt:
 
@@ -354,17 +360,23 @@ Mit dem **Smart Shunt** bekommst du die Möglichkeit deine [12V-Bordelektrik](#1
 
 ![Smart Shunt](images/SHUNT.jpeg)
 
+[Bedienungsanleitung](
+
 ### Wechselrichter:
 
 Mit dem **Wechselrichter** hast du die Möglichkeit auch unterwegs und ohne angeschlossenen Landstrom Zugang zu deinem 230V-Bordnetz zu haben. Es handelt sich hierbei um einen 1000W Wechselrichter mit integriertem MPPT-Solarladeregler und Landstrom-Ladegerät der Firma Ective.
 
 ![Wechselrichter](images/INVERTER.jpeg)
 
+[Bedienungsanleitung](
+
 ### Versorgungsbatterie:
 
 Mit der **Versorgungsbatterie** wird die komplette Bordelektrik mit Strom versorgt. Es handelt sich hierbei um eine 12V 230Ah AGM Batterie der Firma Ective.
 
 ![Versorgungsbatterie](images/BATTERIE.jpeg)
+
+[Bedienungsanleitung](
 
 ### CEE-Dose:
 
