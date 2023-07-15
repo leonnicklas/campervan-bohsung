@@ -346,6 +346,8 @@ Mit dem **Ladebooster** hast du die Möglichkeit auch während der Fahrt die [Ve
 
 ![Ladebooster](images/BOOSTER.jpeg)
 
+![Bedienungsanleitung](https://www.votronic.de/images/Anleitungen/04.%20B2B%20Ladegeraete%20Booster/3326_3328_3329.pdf)
+
 ### Smart Shunt:
 
 Mit dem **Smart Shunt** bekommst du die Möglichkeit deine [12V-Bordelektrik](#12v-bordelektrik) zu überwachen. Der Messwiderstand ist dafür zuständig, den - in die Batterie rein / aus der Batterie raus - fließenden Strom zu messen. Die hier gemessenen Werte zum Zustand deiner [Versorgungsbatterie](#versorgungsbatterie) (und noch mehr) kannst du ganz bequem über den [Batterie-Computer](#batterie-computer) auslesen und bewerten.
