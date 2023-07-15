@@ -280,21 +280,21 @@ Meine **Telefonnummer** findest du bei der Bordelektrik unter der *(in Fahrtrich
 
 ## Legende (Bilder)
 
-### Batterie-Computer:
+### LCD Batterie Computer 200 S (Votronic):
+
+[(Bedienungsanleitung)](https://www.votronic.de/images/Anleitungen/08.%20Mess-%20und%20Anzeigegeraete/1263_1266_1269.pdf)
 
 Mit dem **Batterie-Computer** kannst du die [12V-Bordelektrik](#12v-bordelektrik) überwachen und steuern. Mehr Infos dazu findes du im Abschnitt [Bordnetz (12V) -> Überwachung](#überwachung).
 
 ![Batterie-Computer](images/COMPUTER.jpeg)
 
-[Bedienungsanleitung](
+### Wechselrichter Fernbedienung RC4 (Ective):
 
-### 230V-Kontrollpanel:
+[(Bedienungsanleitung)](https://www.ective.de/mediafiles/Datenblatt/ective/RC/Manual-Ective-RC.pdf)
 
 Mit dem **230V-Kontrollpanel** kannst du den [Wechselrichter](#wechselrichter) bedienen, der dafür sorgt, dass du auch unterwegs und ohne Landstrom Zugang zu deinem 230V-Bordnetz hast.
 
 ![230V-Kontrollpanel](images/CONTROL.jpeg)
-
-[Bedienungsanleitung](
 
 ### 230V-Steckdose:
 
@@ -338,45 +338,45 @@ Mit den beiden **12V-Sicherungskästen** ist deine [12V-Bordelektrik](#12v-borde
 #### Klein-Verbraucher:
 ![12V-Sicherungskästen](images/FUSE_SMALL.jpeg)
 
-### Switch-Unit 100:
+### Trennrelais Switch Unit 100 (Votronic):
+
+[(Bedienungsanleitung)](https://www.votronic.de/images/Anleitungen/10.%20Periphere%20Geraete/2072.pdf)
 
 Mit der **Switch-Unit 100** wird sichergestellt, dass es nicht zu einer ungewollten [Tiefenentladung](#tiefenentladeschutz) kommt. Sie fungiert als Schalter *(Relais)* und trennt bei Bedarf durch ein externes Signal vom [Batterie-Computer](#batterie-computer) die [Versorgungsbatterie](#versorgungsbatterie) von der restlichen Bordelektrik.
 
 ![Switch-Unit 100](images/SWITCHUNIT.jpeg)
 
-[Bedienungsanleitung](
+### Ladebooster VCC 1212-50 (Votronic):
 
-### Ladebooster:
+[Bedienungsanleitung](https://www.votronic.de/images/Anleitungen/04.%20B2B%20Ladegeraete%20Booster/3326_3328_3329.pdf)
 
 Mit dem **Ladebooster** hast du die Möglichkeit auch während der Fahrt die [Versorgungsbatterie](#versorgungsbatterie) über die Lichtmaschine mit aufzuladen. Es handelt sich hierbei um einen 50A Ladebooster der Firma Votronic.
 
 ![Ladebooster](images/BOOSTER.jpeg)
 
-[Bedienungsanleitung](https://www.votronic.de/images/Anleitungen/04.%20B2B%20Ladegeraete%20Booster/3326_3328_3329.pdf)
+### Smart Shunt 200 A (Votronic):
 
-### Smart Shunt:
+[(Bedienungsanleitung)](https://www.votronic.de/images/Anleitungen/08.%20Mess-%20und%20Anzeigegeraete/1263_1266_1269.pdf)
 
 Mit dem **Smart Shunt** bekommst du die Möglichkeit deine [12V-Bordelektrik](#12v-bordelektrik) zu überwachen. Der Messwiderstand ist dafür zuständig, den - in die Batterie rein / aus der Batterie raus - fließenden Strom zu messen. Die hier gemessenen Werte zum Zustand deiner [Versorgungsbatterie](#versorgungsbatterie) (und noch mehr) kannst du ganz bequem über den [Batterie-Computer](#batterie-computer) auslesen und bewerten.
 
 ![Smart Shunt](images/SHUNT.jpeg)
 
-[Bedienungsanleitung](
+### Wechselrichter SSI 10 (Ective):
 
-### Wechselrichter:
+[(Bedienungsanleitung)](https://www.ective.de/mediafiles/Datenblatt/ective/Inverter-2020/Manual-Ective-CSI-SSI.pdf)
 
 Mit dem **Wechselrichter** hast du die Möglichkeit auch unterwegs und ohne angeschlossenen Landstrom Zugang zu deinem 230V-Bordnetz zu haben. Es handelt sich hierbei um einen 1000W Wechselrichter mit integriertem MPPT-Solarladeregler und Landstrom-Ladegerät der Firma Ective.
 
 ![Wechselrichter](images/INVERTER.jpeg)
 
-[Bedienungsanleitung](
+### Versorgungsbatterie DC 230s (Ective):
 
-### Versorgungsbatterie:
+[(Bedienungsanleitung)](
 
 Mit der **Versorgungsbatterie** wird die komplette Bordelektrik mit Strom versorgt. Es handelt sich hierbei um eine 12V 230Ah AGM Batterie der Firma Ective.
 
 ![Versorgungsbatterie](images/BATTERIE.jpeg)
-
-[Bedienungsanleitung](
 
 ### CEE-Dose:
 
